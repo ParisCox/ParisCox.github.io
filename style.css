@@ -1,0 +1,45 @@
+body,
+html {
+    /* width: 100px;
+    height: 100px;
+    font-family: 'Montserrat', sans-serif;  */
+    background: url(macbook.jpeg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1{
+    font-size: 3rem;
+    color: #ef07db;
+}
+
+hr {
+    color: #0dcaf0;
+    /* border-width: 3px;
+    max-width: 65px;  */
+}
+
+.buffer {
+    height: 1rem;
+}
+
+.btn {
+    font-weight: 700;
+    border-radius: 300px;
+    text-transform: uppercase;
+}
+
+.btn-info {
+    background-color: #0dcaf0;
+}
+
+.btn-info:hover {
+    background-color: #ef07db;
+}
+
+.btn-xl {
+    padding: 1rem 2rem;
+}
+
